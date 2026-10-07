@@ -27,6 +27,12 @@ The project uses a controlled virtualised security laboratory containing:
 * **Windows 11 test machine** - endpoint telemetry
 * **Splunk Universal Forwarder** - Windows event forwarding
 
+## SOC Detection Dashboard
+
+The Splunk dashboard provides an overview of the security detection lab, including validated detections, detection activity and investigation thresholds.
+
+![SOC Detection Overview](screenshots/soc-detection-overview.png)
+
 ## Detection Scenarios
 
 | #  | Detection                              | Log Source                     | Detection Threshold / Condition                          
